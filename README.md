@@ -384,4 +384,3 @@ Add the following secrets in your GitHub repository settings under Secrets:
 - Push the image to ECR.
 - Deploy the image to the EC2 instance.
 
-#test run
