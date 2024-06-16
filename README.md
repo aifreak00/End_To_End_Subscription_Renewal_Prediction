@@ -1,4 +1,4 @@
-# GenDes Subscription Renewal Prediction Project
+# GenDes Subscription Renewal Prediction Project-
 ![GenDes Logo](static/logo.png)
 
 ## Overview
@@ -383,3 +383,5 @@ Add the following secrets in your GitHub repository settings under Secrets:
 - Build the Docker image.
 - Push the image to ECR.
 - Deploy the image to the EC2 instance.
+
+#test run
