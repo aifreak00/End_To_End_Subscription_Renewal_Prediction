@@ -378,7 +378,9 @@ Add the following secrets in your GitHub repository settings under Secrets:
 
 .github/workflows/aws_cicd.yml file to automate the deployment:
 
-![CI/CD](Designs/CICD.png)
+![sc2](https://github.com/user-attachments/assets/8f62960d-fa13-4d83-8914-bfd8c042e1d4)
+![sc1](https://github.com/user-attachments/assets/af1bcf9b-aee5-4d99-bd34-37526a063c65)
+
 
 - Build the Docker image.
 - Push the image to ECR.
