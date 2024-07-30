@@ -257,7 +257,7 @@ Before you begin the installation process, ensure you have the following:
 Clone the GenDes repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/Omar-Karimov/AI4Renewals-GenDes.git
+git clone https://github.com/aifreak00/End_To_End_Subscription_Renewal_Prediction.git
 cd AI4Renewals-GenDes
 ```
 
